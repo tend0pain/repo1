@@ -2,4 +2,5 @@ the rainbow
 purple
 pink
 red
+add new red
 green
